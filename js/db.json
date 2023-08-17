@@ -1,0 +1,33 @@
+[
+        {
+            "codigo": 1,
+            "marca": "Fender",
+            "modelo": "Stratocaster",
+            "precio": 1500000,
+            "imagen": "../img/Stratocaster.jpg"
+        },
+
+        {
+            "codigo": 2,
+            "marca": "Fender",
+            "modelo": "Telecaster",
+            "precio": 1250000,
+            "imagen": "../img/Telecaster.jpg"
+        },
+
+        {
+            "codigo": 3,
+            "marca": "Gibson",
+            "modelo": "SG",
+            "precio": 2000000,
+            "imagen": "../img/Sg.jpg"
+        },
+
+        {
+            "codigo": 4,
+            "marca": "Gibson",
+            "modelo": "Les Paul",
+            "precio": 2500000,
+            "imagen": "../img/LesPaul.jpg"
+        }
+    ] 
